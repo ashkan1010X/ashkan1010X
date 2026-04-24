@@ -37,8 +37,4 @@ This one's the big one. A full SaaS product I'm building from the ground up — 
    
     - ---
 
-    ## 📫 Contact
-
-    > 📧 [your email here]
-    > > 💼 [your LinkedIn here]
-    > > > 🌐 [your portfolio here]
+    ## 🌐 [ashcode.ca](https://ashcode.ca)
