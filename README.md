@@ -66,13 +66,13 @@ I'm currently open to **remote roles** and **freelance projects**. If you need s
 ## 🚀 Projects I'm Proud Of
 
 ### 💬 Real-Time Chat Application
-A WebSocket-powered chat app with live messaging, user presence indicators, and room-based conversations. Built for speed and reliability — no page refresh, just instant communication.
+A WebSocket-powered chat app with live messaging, user presence indicators, and room-based conversations. Built for speed and reliability with no page refresh, just instant communication.
 
 ### 🛒 Full-Stack E-Commerce Platform
-A complete e-commerce experience — product listings, dynamic cart, secure checkout flow, order management, and an admin dashboard to manage it all. Built with React on the frontend and a robust backend API handling payments and inventory.
+A complete e-commerce experience: product listings, dynamic cart, secure checkout flow, order management, and an admin dashboard to manage it all. Built with React on the frontend and a robust backend API handling payments and inventory.
 
 ### ⚡ Advanced SaaS Platform *(In Progress)*
-This one's the big one. A full SaaS product I'm building from the ground up — multi-tenant architecture, subscription billing, role-based access, and a slick dashboard UI. The kind of thing that's meant to scale. More details dropping soon.
+This one's the big one. A full SaaS product I'm building from the ground up that include multi-tenant architecture, subscription billing, role-based access, and a slick dashboard UI. The kind of thing that's meant to scale. More details dropping soon.
 
 ---
 
