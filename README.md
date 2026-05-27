@@ -42,6 +42,8 @@ I'm currently open to **remote roles** and **freelance projects**. If you need s
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E5FF?style=for-the-badge&logo=neon&logoColor=black)
 
 **AI & Emerging Tools**
 
