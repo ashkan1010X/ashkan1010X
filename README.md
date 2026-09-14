@@ -5,7 +5,7 @@
 
 # Hey, I'm Ashkan 👋
 
-I'm a full-stack software developer with 5+ years of experience building real-world web and application products — from fast, clean frontends to solid backend systems. I care about writing code that actually works in production, not just in demos.
+I'm a full-stack software developer with 6+ years of experience building real-world web and application products from fast, clean frontends to solid backend systems. I care about writing code that actually works in production, not just in demos.
 
 I'm currently open to **remote roles** and **freelance projects**. If you need someone who can ship, I'm your person.
 
